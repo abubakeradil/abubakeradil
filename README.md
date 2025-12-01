@@ -135,3 +135,8 @@ I enjoy solving problems, creating clean UI/UX, and developing high-performance 
 <img src="https://i.imgur.com/Gq9Hf6v.jpeg" width="350" style="border-radius:10px;">
 
 ---
+
+## 🎖️ Oracle Developer Certificate  
+<img src="https://i.imgur.com/IEMr3wF.jpeg" width="350" style="border-radius:10px;">
+
+---
