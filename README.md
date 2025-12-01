@@ -60,6 +60,104 @@
 
 ---
 
+---
+
+## 🧩 Featured Projects
+
+### 🔥 1. MrWebDevCode – Official Website  
+🔗 https://oracleapex.com/ords/r/mrwebdevcode/mrwebdevcode/home  
+نظام شخصي احترافي لعرض الخدمات، المشاريع، والتواصل.
+
+---
+
+### 🎓 2. Math & Computer Academy  
+🔗 https://oracleapex.com/ords/r/mrwebdevcode/mrmathcomputer-academy/home  
+منصة أكاديمية تعليمية متكاملة للرياضيات والكمبيوتر.
+
+---
+
+### 🚚 3. Heavy Vehicles Management System (ADNOC)  
+🔗 https://oracleapex.com/ords/r/vehiclemanagment/vehicles-app/login  
+نظام قوي لإدارة المركبات الثقيلة، التجديد، الفحص، والشطب لمواقع  
+**Das, Zirku, Ruwais, Arzana, Mussafah**.
+
+---
+
+### 🏢 4. Software Company Management System  
+🔗 https://oracleapex.com/ords/r/mrwebdevcode/software-company-management-system/home  
+نظام إدارة شركات البرمجة: العملاء – الفواتير – المهام – الرواتب.
+
+---
+
+### 🏫 5. School Management System  
+🔗 https://oracleapex.com/ords/r/mrwebdevcode/school-management-system/home  
+نظام متكامل لإدارة المدارس، الطلاب، النتائج، الرسوم، الحضور.
+
+---
+
+### 🌿 6. Abdulrahman Nursery  
+🔗 https://oracleapex.com/ords/r/mrwebdevcode/%D9%85%D8%B4%D8%AA%D9%84-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86/home  
+موقع للمشتل، عرض المنتجات، التواصل، معرض الصور.
+
+---
+
+### 👤 7. Personal Portfolio (Oracle APEX)  
+🔗 https://oracleapex.com/ords/r/mrwebdevcode/abubaker-haj-hamad/home  
+موقع شخصي كامل لعرض الخبرات، المشاريع، الشهادات، والمهارات.
+
+---
+
+## 🪪 Personal Info  
+- **الاسم:** ABUBAKER HAJ HAMAD  
+- **المهنة:** Full Stack Developer – Oracle APEX Specialist  
+- **مكان الإقامة:** 🇦🇪 الإمارات – أبوظبي – غياثي  
+- **الإيميل للتواصل:** abubakeradilwork@gmail.com  
+- **واتساب:** 00201030260298  
+
+---
+
+## 🌐 Social Media
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abubakeradil">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/share/1BVwP6N3hB/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://x.com/MrIbnAlHussain">
+  <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/abaty_adil">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.snapchat.com/add/abubakkeradil">
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+</a>
+
+<a href="https://www.tiktok.com/@abaty_adil">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 📸 Personal Photo  
+<img src="https://i.imgur.com/UXVUid4.jpeg" width="200" style="border-radius:10px;">
+
+---
+
+## 🎓 Bachelor's Degree  
+<img src="https://i.imgur.com/Gq9Hf6v.jpeg" width="350" style="border-radius:10px;">
+
+---
+
 ### ⚡ GitHub Stats
 
 <p align="center">
@@ -71,6 +169,7 @@
 </p>
 
 ---
+
 
 ### ☕ Support My Work
 
