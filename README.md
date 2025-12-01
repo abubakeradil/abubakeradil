@@ -15,6 +15,7 @@
 
 **Name:** ABUBAKER HAJ HAMAD  
 **Role:** Full Stack Developer —PL/SQL and Oracle APEX specialist.
+
 **Location:** Abu Dhabi, UAE — Ghayathi  
 I am a Full Stack Developer specializing in modern integrated systems.
 I work with HTML, CSS, JavaScript, Java, Python, PL/SQL and Oracle APEX.
