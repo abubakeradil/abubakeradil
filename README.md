@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm ABUBAKER HAJ HAMAD 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Oracle APEX Specialist | Web Systems Engineer</b><br>
+  <b>Full Stack Developer | Oracle Developer | Web Systems Engineer</b><br>
   Passionate about building scalable, AI-powered web applications and real-world business systems.
 </p>
 
@@ -14,10 +14,10 @@
 ## 📌 About Me
 
 **Name:** ABUBAKER HAJ HAMAD  
-**Role:** Full Stack Developer — Oracle APEX Specialist  
+**Role:** Full Stack Developer —PL/SQL and Oracle APEX specialist.
 **Location:** Abu Dhabi, UAE — Ghayathi  
-
-I’m a passionate full-stack developer focused on Oracle APEX and modern web technologies.  
+I am a Full Stack Developer specializing in modern integrated systems.
+I work with HTML, CSS, JavaScript, Java, Python, PL/SQL and Oracle APEX.
 I build complete systems, dashboards, and automation solutions customized for real-world business needs.  
 I enjoy solving problems, creating clean UI/UX, and developing high-performance applications.
 
