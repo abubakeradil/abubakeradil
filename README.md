@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm ABUBAKER HAJ HAMAD 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Oracle Developer | Web Systems Engineer</b><br>
+  <b>Full Stack Developer | Oracle Developer Specialist | Web Systems Engineer</b><br>
   Passionate about building scalable, AI-powered web applications and real-world business systems.
 </p>
 
